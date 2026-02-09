@@ -1,0 +1,7 @@
+[package]
+name = "rust-100-problems"
+version = "0.1.0"
+edition = "2021"
+description = "Solutions for 100 Rust Interview Problems"
+
+[dependencies]
