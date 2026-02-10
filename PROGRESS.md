@@ -16,8 +16,8 @@ Track your progress as you solve each problem. Update this file as you complete 
 ### Basic Syntax & Math (1-15)
 - [x] 001 - Two Sum
 - [x] 002 - Reverse String
-- [ ] 003 - Palindrome Number
-- [ ] 004 - FizzBuzz
+- [x] 003 - Palindrome Number
+- [x] 004 - FizzBuzz
 - [ ] 005 - Fibonacci Number
 - [ ] 006 - Factorial
 - [ ] 007 - Count Digits
@@ -147,10 +147,10 @@ Track your progress as you solve each problem. Update this file as you complete 
 
 | Category | Completed | Total | Percentage |
 |:--------:|:---------:|:-----:|:----------:|
-| 🟢 Beginner | 2 | 35 | 5.7% |
+| 🟢 Beginner | 4 | 35 | 11.4% |
 | 🟡 Intermediate | 0 | 35 | 0% |
 | 🔴 Advanced | 0 | 30 | 0% |
-| **Total** | **2** | **100** | **2%** |
+| **Total** | **4** | **100** | **4%** |
 
 ---
 

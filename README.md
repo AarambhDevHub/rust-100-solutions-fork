@@ -301,10 +301,10 @@ cargo test p001 -- --nocapture
 
 | Difficulty | Total | Completed | Progress |
 |:----------:|:-----:|:---------:|:--------:|
-| 🟢 Beginner | 35 | 2 | ![](https://geps.dev/progress/5.7) |
+| 🟢 Beginner | 35 | 4 | ![](https://geps.dev/progress/11.4) |
 | 🟡 Intermediate | 35 | 0 | ![](https://geps.dev/progress/0) |
 | 🔴 Advanced | 30 | 0 | ![](https://geps.dev/progress/0) |
-| **Total** | **100** | **2** | ![](https://geps.dev/progress/2) |
+| **Total** | **100** | **4** | ![](https://geps.dev/progress/4) |
 
 ---
 
