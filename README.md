@@ -11,7 +11,7 @@
 
 *Complete solutions with explanations, test cases, and complexity analysis*
 
-[📚 Problems](#-problem-categories) • [🚀 Quick Start](#-quick-start) • [� Progress](#-progress-tracker) • [🤝 Contributing](#-contributing)
+[📚 Problems](#-problem-categories) • [🚀 Quick Start](#-quick-start) • [ Progress](#-progress-tracker) • [🤝 Contributing](#-contributing)
 
 </div>
 
@@ -105,7 +105,7 @@ cargo test p001 -- --nocapture
 
 ---
 
-## � Problem Categories
+## Problem Categories
 
 ### 🟢 Beginner (1-35)
 
@@ -301,10 +301,10 @@ cargo test p001 -- --nocapture
 
 | Difficulty | Total | Completed | Progress |
 |:----------:|:-----:|:---------:|:--------:|
-| 🟢 Beginner | 35 | 0 | ![](https://geps.dev/progress/0) |
+| 🟢 Beginner | 35 | 2 | ![](https://geps.dev/progress/5.7) |
 | 🟡 Intermediate | 35 | 0 | ![](https://geps.dev/progress/0) |
 | 🔴 Advanced | 30 | 0 | ![](https://geps.dev/progress/0) |
-| **Total** | **100** | **0** | ![](https://geps.dev/progress/0) |
+| **Total** | **100** | **2** | ![](https://geps.dev/progress/2) |
 
 ---
 
