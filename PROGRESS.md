@@ -24,11 +24,11 @@ Track your progress as you solve each problem. Update this file as you complete 
 - [x] 008 - Sum of Array
 - [x] 009 - Find Maximum
 - [x] 010 - Find Minimum
-- [ ] 011 - Even or Odd
-- [ ] 012 - Prime Number Check
-- [ ] 013 - Leap Year
-- [ ] 014 - Celsius to Fahrenheit
-- [ ] 015 - Swap Two Numbers
+- [x] 011 - Even or Odd
+- [x] 012 - Prime Number Check
+- [x] 013 - Leap Year
+- [x] 014 - Celsius to Fahrenheit
+- [x] 015 - Swap Two Numbers
 
 ### Arrays & Strings (16-35)
 - [ ] 016 - Reverse Integer
@@ -147,10 +147,10 @@ Track your progress as you solve each problem. Update this file as you complete 
 
 | Category | Completed | Total | Percentage |
 |:--------:|:---------:|:-----:|:----------:|
-| 🟢 Beginner | 10 | 35 | 28.6% |
+| 🟢 Beginner | 15 | 35 | 42.9% |
 | 🟡 Intermediate | 0 | 35 | 0% |
 | 🔴 Advanced | 0 | 30 | 0% |
-| **Total** | **10** | **100** | **10%** |
+| **Total** | **15** | **100** | **15%** |
 
 ---
 
