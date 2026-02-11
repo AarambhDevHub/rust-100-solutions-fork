@@ -18,12 +18,12 @@ Track your progress as you solve each problem. Update this file as you complete 
 - [x] 002 - Reverse String
 - [x] 003 - Palindrome Number
 - [x] 004 - FizzBuzz
-- [ ] 005 - Fibonacci Number
-- [ ] 006 - Factorial
-- [ ] 007 - Count Digits
-- [ ] 008 - Sum of Array
-- [ ] 009 - Find Maximum
-- [ ] 010 - Find Minimum
+- [x] 005 - Fibonacci Number
+- [x] 006 - Factorial
+- [x] 007 - Count Digits
+- [x] 008 - Sum of Array
+- [x] 009 - Find Maximum
+- [x] 010 - Find Minimum
 - [ ] 011 - Even or Odd
 - [ ] 012 - Prime Number Check
 - [ ] 013 - Leap Year
@@ -147,10 +147,10 @@ Track your progress as you solve each problem. Update this file as you complete 
 
 | Category | Completed | Total | Percentage |
 |:--------:|:---------:|:-----:|:----------:|
-| 🟢 Beginner | 4 | 35 | 11.4% |
+| 🟢 Beginner | 10 | 35 | 28.6% |
 | 🟡 Intermediate | 0 | 35 | 0% |
 | 🔴 Advanced | 0 | 30 | 0% |
-| **Total** | **4** | **100** | **4%** |
+| **Total** | **10** | **100** | **10%** |
 
 ---
 
